@@ -12,4 +12,11 @@ I like using computer science techniques to help people quickly make sense of th
   <p align="center">
   <a href="https://twitter.com/Yiru__Chen"><kbd>wanna see my twitter?</kbd></a>
   <a href="https://www.cs.columbia.edu/~chen1ru/"><kbd>maybe my website?</kbd></a>
-  </p>
+</p>
+
+</details>
+<details>
+<summary align="center"><samp>Credit</samp></summary>
+  <p align="center">🌟Layout borrowed by <a href="https://github.com/chumbud">chumbud's.</a>🌟</p>
+
+</details>
