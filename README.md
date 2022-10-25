@@ -17,6 +17,7 @@ I like using computer science techniques to help people quickly make sense of th
 </details>
 <details>
 <summary align="center"><samp>Credit</samp></summary>
+  <p align="center">
   <p align="center">🌟Layout borrowed by <a href="https://github.com/chumbud">chumbud's.</a>🌟</p>
 
 </details>
