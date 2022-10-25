@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://github.com/Ireneruru/Ireneruru/blob/main/hewwo.gif" align="left">
+<img src="https://tenor.com/bbHFz.gif" align="left">
 <p align="center"><strong>✨HELLO :)✨</strong></p>
 <p align="left">happy you stopped by!I am Yiru Chen, a Ph.D. student at Columbia University. Now, I am researching and building systems to help people easily create fast-responding interactive interfaces.  
 
