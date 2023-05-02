@@ -11,7 +11,7 @@ I like using computer science techniques to help people quickly make sense of th
 <summary align="center"><samp>around the webspace</samp></summary>    
   <p align="center">
   <a href="https://twitter.com/Yiru__Chen"><kbd>wanna see my twitter?</kbd></a>
-  <a href="https://www.cs.columbia.edu/~chen1ru/"><kbd>maybe my website?</kbd></a>
+  <a href="https://www.cs.columbia.edu/~chen1ru/Home.html"><kbd>maybe my website?</kbd></a>
 </p>
 
 </details>
